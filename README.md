@@ -4,15 +4,16 @@
   <a href="https://github.com/LHPetillo">
     <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=LHPetillo&show_icons=true&theme=aura_dark"/>
     <img width="24.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHPetillo&theme=aura_dark")](https://github.com/LHPetillo/github-readme-stats)
-    
+        
 </div>
   
 
  <div style="display: inline_block"><br>
     <img align="left" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="left" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          
+    <img align="left" alt="Leo-CSS" height="30" width="80" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
+ 
 
  <div>
    <a href="https://www.instagram.com/lpetillo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=&logoColor=white" target="_blank">     </a>
